@@ -1,0 +1,10 @@
+C:\Users\Kate\Desktop\Laba8Tir\bin\Debug\Laba8Tir.exe.config
+C:\Users\Kate\Desktop\Laba8Tir\bin\Debug\Laba8Tir.exe
+C:\Users\Kate\Desktop\Laba8Tir\bin\Debug\Laba8Tir.pdb
+C:\Users\Kate\Desktop\Laba8Tir\obj\Debug\Laba8Tir.csprojAssemblyReference.cache
+C:\Users\Kate\Desktop\Laba8Tir\obj\Debug\Laba8Tir.Form1.resources
+C:\Users\Kate\Desktop\Laba8Tir\obj\Debug\Laba8Tir.Properties.Resources.resources
+C:\Users\Kate\Desktop\Laba8Tir\obj\Debug\Laba8Tir.csproj.GenerateResource.cache
+C:\Users\Kate\Desktop\Laba8Tir\obj\Debug\Laba8Tir.csproj.CoreCompileInputs.cache
+C:\Users\Kate\Desktop\Laba8Tir\obj\Debug\Laba8Tir.exe
+C:\Users\Kate\Desktop\Laba8Tir\obj\Debug\Laba8Tir.pdb
